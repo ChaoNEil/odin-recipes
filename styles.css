@@ -1,0 +1,26 @@
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8467a6;
+}
+
+.main-head {
+    text-align: center;
+    background-color: #f82fab;
+}
+
+.recipes,
+.recipes ul {
+    text-align: center;
+    list-style: none;
+}
+.recipes h2 {
+    background-color: #f9ec5d;
+}
+
+
+.link {
+    position: fixed;
+    bottom: 0;
+}
