@@ -24,3 +24,23 @@
     position: fixed;
     bottom: 0;
 }
+
+/*  Below this line is the styles for the every content page*/
+
+.img-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.upper-text {
+    text-align: center;
+}
+
+.food-quotes {
+    text-align: center;
+}
+
+.back-button {
+    background-color: #f9ec5d;
+}
